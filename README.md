@@ -1,1 +1,1 @@
-# Boston-Housing-Prices
+In this repository I implement linear regression to predict housing prices in Boston. The dataset contains several feature variables including crime rates, number of rooms in housing unit, square footage, location parameters, and more. I use sci-kit learn and stats model python libraries to conduct my analysis. 
